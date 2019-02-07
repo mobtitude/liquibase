@@ -1,7 +1,7 @@
 mobtitude/liquibase
 ===================
 
-The [Liquibase](http://www.liquibase.org) image, based on `java:jre-alpine` with mysql driver.
+The [Liquibase](http://www.liquibase.org) docker image, based on `java:jre-alpine` with mysql driver.
 
 This image is inspired by `webdevops/liquibase`, but it's smaller and easier to maintain.
 
